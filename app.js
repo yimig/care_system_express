@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var testRouter = require('./routes/test');
 var staffLoginRouter=require('./routes/staff_login');
-var getInfoRouter=require('./routes/get_info')
+var getInfoRouter=require('./routes/get_info');
 
 var app = express();
 
